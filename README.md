@@ -1,11 +1,10 @@
-Backend https://github.com/eal6gf/calibre
-
 # Calibre
 Calibre is a web application that allows users to search, play, and save music and videos to a playlist.
 
+[Click here to view the Ruby on Rails backend of Calibre](https://github.com/eal6gf/calibre)
+
 ## Motivation
 The goal behind this application was to refine my web development skills in the following areas:
-
 * Create a single page application using vanilla javascript
 * Mimic and learn React.js and Redux structure using my own state and store
 * Create and query an Rails API backend using a PostgreSQL database.
@@ -30,17 +29,20 @@ In order to use this application ruby and the ruby gem must be installed
 6. Open index.html in your browser
 
 ## How to use?
-After completing the installation. You can now use the site. Here are the myriad of things you can do starting with the navbar. 
+After completing the installation. You can now use the site. Here are the myriad of things you can do starting with the navbar.
 
 #### Searching
 In the center of the navbar you will see a large search bar. If you type in and click the search icon or press enter you will be taken to a new page containing your search results.
-
 #### Login
-In the top right if the navbar you will find the login input. This site only needs a username to login. After typing in you
-Screenshots
+In the top right if the navbar you will find the login input. This site only needs a username to login. After typing in your username if you have made a playlist previously it will be loaded. If not then your modifications to your playlist will now be saved
+#### Switching Sections
+Under the navbar there will be two tab buttons that allow you to switch between the playing and the browsing section.
+#### Playlist
+In the right side of the playing section you can manage your playlist. In the upper section of the playlist you can shuffle, repeat, play previous, and play next songs. In the list of songs you can play, remove, and change the song’s order.
+#### Likes & Comments
+Under the video player you will find the likes and comments section. Here if you are logged in you can like a video by clicking the fire button, and comment by typing in the comment box and submitting.
+#### Browsing and Suggestions
+At the bottom of the playing section and in the browsing sections there will be a variety of blocks for videos and music. Clicking on the play button will take you to the playing section and start the media. If you click the add button it will be added to your playlist. If you have added the video or song to your playlist you will not be able to add it again.
 
 ## License
-
-## Features
-
-
+MIT Open SOurce
