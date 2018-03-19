@@ -46,6 +46,8 @@ At the bottom of the playing section and in the browsing sections there will be 
 
 ## Screenshots
 
+![playine section](screen1.png)
+![browsing section](screen2.png)
 
 ## License
 MIT License
