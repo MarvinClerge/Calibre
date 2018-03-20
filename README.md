@@ -9,7 +9,7 @@ The goal behind this application was to refine my web development skills in the 
 * Mimic and learn React.js and Redux structure using my own state and store
 * Create and query an Rails API backend using a PostgreSQL database.
 * Write custom CSS and become familiar with grid and flexbox
-* Working with a group of three and learning git
+* Git proficiency and Project management working in a group of 3
 * Understanding HTML video and audio tags
 
 ## Tech/framework used
