@@ -21,7 +21,7 @@ Used to create frontend, DOM manipulation, user interface, and fetching data fro
 
 
 ## Installation
-In order to use this application ruby and the ruby gem must be installed
+In order to use this application ruby must be installed
 ### MAC OS
 1. Download both the frontend and backend of Calibre
 2. Go to the backend folder location in your terminal and run bundle install
