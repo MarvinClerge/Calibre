@@ -24,7 +24,7 @@ Used to create frontend, DOM manipulation, user interface, and fetching data fro
 In order to use this application ruby must be installed
 ### MAC OS
 1. Download both the frontend and backend of Calibre
-2. Go to the backend folder location in your terminal and run bundle install
+2. Go to the backend folder location in your terminal and run `bundle install`
 3. After the installation is complete run `rails db:migrate` and `rails db:seed` to create the database
 4. Run `rails s` to start the backend rails server
 5. Go to the frontend folder location in your terminal
